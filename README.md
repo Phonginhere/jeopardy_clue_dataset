@@ -1,3 +1,10 @@
+## Note from my version
+This is the place where I put my project on analysis of Jeopardy. I might be post a blog about how I make the analysis with explanation and might some resources related to that.
+
+
+## Acknowledgement
+Thanks from this link: https://github.com/jwolle1/jeopardy_clue_dataset.git
+
 ## jeopardy_clue_dataset
 
 <p align="center"><img src="images/jeo_logo.jpg" alt="Jeopardy! Logo" /></p>
